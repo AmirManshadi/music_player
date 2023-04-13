@@ -9,9 +9,9 @@ then you need to add the path to "assets/js/script.js" like below
 <br/>
 ```javascript
 {
-  title: <title>,
-  artist: <artist>,
-  cover: <cover image path>,
-  audio: new Audio(<audio file path>),
+  title: '<title>',
+  artist: '<artist>',
+  cover: '<cover image path>',
+  audio: new Audio('<audio file path>'),
 }
 ```
